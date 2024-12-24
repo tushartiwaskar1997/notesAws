@@ -1,0 +1,54 @@
+What is kernel ?
+What are the differnet types of kernel ?
+What is virtualization ? and why it was build ?
+What is virtual machine ?
+What are different types of vm ?
+What is hyperviser ?
+What is docker ?
+What was the need of docker ? advantages and disadvantages 
+When we give the iiam permission to while creating the users , if we give ALLOW AND DENY both permission to  user than which permission will work.?
+How to mount s3 to ec2 when user does not have the any iam permission of role ?
+Difference between ami and Image ?
+What is sha ID in docker?
+What is the concept of layes in docker images?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important ➖
+Container prot range start from 32768.
+Inside on container we can also run container it is called as docker inside docker.
+
+
+
+
+
+
+
+=========================================================================================
+                  Practical  Questions 
+=========================================================================================
+
+Create the AMI of the Tomcat ?
+
+
+
+
+
+
