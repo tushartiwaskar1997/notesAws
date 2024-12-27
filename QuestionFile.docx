@@ -45,9 +45,12 @@ Inside on container we can also run container it is called as docker inside dock
                   Practical  Questions 
 =========================================================================================
 
-Create the AMI of the Tomcat ?
-
-
+1.Create the AMI of the Tomcat ?
+2.Take the docker aws linux image and add the tomcat package and  also run the student ui  
+make container and send it to dockerhub and ecr.
+3.get the docker image of aws linux and nginx package and then run the free css 
+and store it on ecr and docker hub.
+4. start the mysql container using envirnoment variable and create user also.
 
 
 
